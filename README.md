@@ -1,2 +1,2 @@
-# js_text_editor
+# textEditor
 Javascript Text Editor
